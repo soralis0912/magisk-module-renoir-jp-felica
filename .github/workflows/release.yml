@@ -15,3 +15,8 @@ jobs:
         type: 'zip'
         filename: 'magisk-module-renoir-jp-felica.zip'
         exclusions: '*.git*'
+    - name: Upload Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "magisk-module-renoir-jp-felica.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
