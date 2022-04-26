@@ -23,5 +23,6 @@ jobs:
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
+        allowUpdates: true
         artifacts: "magisk-module-renoir-jp-felica.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
