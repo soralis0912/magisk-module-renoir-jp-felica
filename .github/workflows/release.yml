@@ -1,4 +1,3 @@
-- name: release magisk module
 jobs:
   build:
     runs-on: ubuntu-latest
