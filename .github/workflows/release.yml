@@ -1,5 +1,9 @@
 on:
   workflow_dispatch:
+    branches-ignore:
+      - '**'
+    tags:
+      - 'v*'
   create:
     branches-ignore:
       - '**'
