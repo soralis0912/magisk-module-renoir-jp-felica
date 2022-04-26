@@ -17,7 +17,6 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        fetch-depth: 0
         type: 'zip'
         filename: 'magisk-module-renoir-jp-felica.zip'
         exclusions: '*.git*'
