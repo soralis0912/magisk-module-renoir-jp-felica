@@ -6,3 +6,6 @@ ro.product.product.model=M2101K9R
 ro.product.product.model=M2101K9R
 ro.product.odm.model=M2101K9R
 ro.product.system_ext.model=M2101K9R
+ro.product.odm.cert=M2101K9G
+ro.product.vendor.cert=M2101K9G
+ro.miui.build.region=jp
