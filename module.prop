@@ -1,7 +1,7 @@
 id=renoir-jp-felica
 name=Patch for Mi 11 Lite 5G Japan
-version=v12
-versionCode=12
+version=v13
+versionCode=13
 author=soralis0912
 description=Mi 11 Lite 5G 日本版用パッチ
 updateJson=https://raw.githubusercontent.com/soralis0912/magisk-module-renoir-jp-felica/master/update.json
