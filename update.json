@@ -2,5 +2,5 @@
     "version": "v13",
     "versionCode": 13,
     "zipUrl": "https://github.com/soralis0912/magisk-module-renoir-jp-felica/releases/latest/download/magisk-module-renoir-jp-felica.zip",
-    "changelog": "https://github.com/soralis0912/magisk-module-renoir-jp-felica/releases/latest"
+    "changelog": "https://raw.githubusercontent.com/soralis0912/magisk-module-renoir-jp-felica/master/changelog.md"
 }
